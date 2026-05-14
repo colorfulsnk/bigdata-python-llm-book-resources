@@ -6,6 +6,8 @@ env/*.env
 
 # Generated outputs
 output/
+code/img/
+code/style_demo_*.pdf
 
 # Files that exceed GitHub's normal size limits
 model/wiki.zh.text.model.syn1neg.npy
