@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+
+# Local secrets
+env/*.env
+
+# Generated outputs
+output/
+
+# Files that exceed GitHub's normal size limits
+model/wiki.zh.text.model.syn1neg.npy
+model/wiki.zh.text.model.wv.vectors.npy
+data/md&a10000.csv
+
+# Bulky runtime assets omitted from the initial public release
+code/font/Songti.ttc
+code/model/wiki.zh.text.model
